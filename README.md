@@ -93,9 +93,8 @@ SDHS-HACKATHON-2025-Team10/
 ## 🚀 배포
 
 이 프로젝트는 Vercel를 통해 배포됩니다.
-```
-https://benefit-on-v2.vercel.app/
-```
+
+🌐 **배포 링크**: [https://benefit-on-v2.vercel.app/](https://benefit-on-v2.vercel.app/)
 
 ## 📱 사용법
 
